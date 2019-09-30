@@ -17,5 +17,3 @@ describe("Filter Function", () => {
   });
 
 })
-
-//adding a comment 
